@@ -1,3 +1,24 @@
-body {
-    background: blue;
+.intro {
+    text-align: center;
+    display: block;
+    //width: 75%;
+    word-wrap: break-word;
+    display: inline-block; 
+    
 }
+
+#photo-me {
+     background-size: 500px;
+}
+
+#title {
+    text-align: center;
+}
+
+
+#details div {
+    background-color: pink;
+    text-align: center;
+    float: left;
+    width: 50%;
+  }
